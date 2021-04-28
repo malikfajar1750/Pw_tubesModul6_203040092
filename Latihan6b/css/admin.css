@@ -1,0 +1,38 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+  text-align: left;
+  font-size: 0.75rem;
+}
+
+th {
+  background-color: #00af91;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+td {
+  font-weight: 600;
+}
+
+table img {
+  width: 9.375rem;
+}
+
+.wrapper-opt-btn {
+  width: 180px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.wrapper-opt-btn button {
+  font-size: 0.75rem;
+  font-weight: 300;
+}

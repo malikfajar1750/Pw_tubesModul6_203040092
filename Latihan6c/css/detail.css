@@ -1,0 +1,39 @@
+body {
+  font-family: Montserrat, sans-serif;
+  line-height: 1.5;
+}
+
+table {
+  margin: 20px auto;
+  height: 900px;
+  max-height: 100vh;
+}
+
+table .ket-data {
+  width: 150px;
+  /* padding-right: 10px; */
+  padding: 0;
+  text-align: left;
+}
+
+table td {
+  width: 600px;
+}
+
+table .keterangan p {
+  margin: 0;
+  padding: 8px 0 8px 8px;
+}
+
+table .gambar img {
+  width: 260px;
+  margin-bottom: 20px;
+}
+
+table .keterangan .judul-kaset {
+  font-weight: bolder;
+}
+
+table .back-btn .btn {
+  margin-top: 20px;
+}
